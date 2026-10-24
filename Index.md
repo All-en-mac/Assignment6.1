@@ -113,17 +113,17 @@ How to Inspect in Chrome DevTools:
 
 Open your project in the browser using Live Server.
 
-Right-click any box and select Inspect (or press F12).
+Right-click any box and select Inspect.
 
-In the Elements panel, make sure the Styles tab is active, then scroll down to the bottom of the right-hand sidebar to view the interactive Box Model diagram (showing concentric layers for margin, border, padding, and content).
+In the Elements panel, make sure the Styles tab is active, then scroll down to the bottom of the right-hand sidebar to view the interactive Box Model diagram.
 
-Explanation of Box Model Layers (For your annotated screenshot):
+Explanation of Box Model Layers 
 
 Content: The innermost layer where text ("Box One", paragraph) and images live.
 
 Padding: The transparent inner space clearing area directly surrounding the content, located inside the border.
 
-Border: The structural line wrapping around the padding and content layers (e.g., the solid blue or dashed red lines).
+Border: The structural line wrapping around the padding and content layers.
 
 Margin: The outermost transparent spacing separating the element from neighboring elements on the page.
 
